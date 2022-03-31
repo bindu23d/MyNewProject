@@ -1,5 +1,5 @@
 ## About The Project
-Automating the saucedemo.com using Selenium WebDriver, Java, Maven and TestNg.
+Automating the www.saucedemo.com using Selenium WebDriver, Java, Maven and TestNg.
 ## Prerequisite
 - Eclipse with Maven
 - JDK (used JDK 17)
