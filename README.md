@@ -1,6 +1,6 @@
 ## About The Project
 Automating the www.saucedemo.com using Selenium WebDriver, Java, Maven and TestNg.
-## Prerequisite
+## Prerequisites
 - Eclipse with Maven
 - JDK (used JDK 17)
 - Microsoft Excel
